@@ -44,6 +44,3 @@ images/
   album-art/   ← Winamp album art
 ```
 
----
-
-Just paste the short description into the **About** box on your repo page, and drop the full README into a file called `README.md` in your repo root. GitHub will display it automatically on the repo homepage.
